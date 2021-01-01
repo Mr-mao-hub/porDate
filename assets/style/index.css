@@ -1,0 +1,184 @@
+.fs35 {
+    color:#e56045;
+}
+
+.h30 {
+    height:30px !important;
+}
+
+.w200 {
+    width:200px;
+}
+
+.fs12{
+    font-size: 12px !important; 
+} 
+.mr8{
+    margin-right:8px !important;
+}
+
+.lh30 {
+    line-height: 30px !important; 
+}
+
+
+
+
+.bg-dark {
+    background-color:#1a1a1a !important;
+}
+
+#sidebar_left.sidebar-light {
+    background-color: white;
+}
+
+#sidebar_left.sidebar-light .sidebar-menu > li.active > a > span:nth-child(1) {
+    color: #e56045;
+  }
+
+
+.sidebar-menu > li > ul > li:hover > a:after,
+.sidebar-menu > li > ul > li:focus > a:after {
+  background: #e56045;
+}
+
+
+.form-control:focus {
+    border-color: #e56045;
+    outline: 0;
+  }
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #e56045;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: #e56045;
+  border-color: rgba(0, 0, 0, 0.05);
+  opacity: 0.87;
+}
+
+.daterangepicker td.active, .daterangepicker td.active:hover {
+    background-color: #e56045;
+    border-color: #e56045;
+    color: #fff;
+  }
+
+
+  .pbtc-primary {
+      border-top-color: #e56045;
+  }
+
+  .panel-controls > a:hover {
+    text-decoration: none;
+    opacity: 1;
+    color:#e56045;
+  }
+
+  .panel-controls > a:focus {
+    outline: 0;
+    outline-offset: -2px;
+    color:#e56045;
+  }
+
+  .panel-controls > a:active {
+    /* outline: 0;
+    outline-offset: -2px; */
+    color:#e56045;
+  }
+
+  .btn-success {
+    color: #ffffff;
+    background-color: #e56045;
+  }
+
+
+  .btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  background-color: #e56045;
+  border-color: #e56045;
+}
+
+.radio-custom.radio-primary label:before,
+.checkbox-custom.checkbox-primary label:before {
+  border-color: #e56045;
+}
+
+.radio-custom.radio-primary input[type=radio]:checked + label:after,
+.radio-custom.radio-primary input[type=checkbox]:checked + label:after,
+.checkbox-custom.checkbox-primary input[type=checkbox]:checked + label:after,
+.checkbox-custom.checkbox-primary input[type=radio]:checked + label:after {
+  background-color: #e56045;
+  color: #e56045;
+}
+
+ul.fancytree-container {
+    font-family: tahoma,arial,helvetica;
+    font-size: 10pt;
+    white-space: nowrap;
+    padding: 3px;
+    margin: 0;
+    background-color: #fff;
+    border: 0;
+    overflow: auto;
+    min-height: 0;
+    position: relative;
+}
+
+.fancytree-container.fancytree-treefocus span.fancytree-node.fancytree-active,.fancytree-container.fancytree-treefocus span.fancytree-node.fancytree-selected,span.fancytree-node.fancytree-active:hover,span.fancytree-node.fancytree-selected:hover {
+    background-color: white;
+    border-color: #e56045;
+}
+
+span.fancytree-node:hover {
+    background-color: white;
+    border-color: white;
+}
+
+
+element.style {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+.panel {
+    background-color: transparent;
+}
+
+.panel-body {
+    background-color:white;
+}
+
+.bb-dashed {
+    border-bottom:1px dashed #4d4d4d;
+}
+
+.select2-light + .select2-container .select2-selection--single,
+.select2-light + .select2-container .select2-selection--single .select2-selection__rendered {
+  /* color: #FFF; */
+  border-color: white;
+  background-color: white;
+}
+
+.multiselect {
+    background-color:white !important;
+}

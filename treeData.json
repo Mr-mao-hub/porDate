@@ -1,0 +1,70 @@
+[{
+	"title": "简单实践快乐开发"
+}, {
+	"key": "2",
+	"title": "约定胜于配置"
+}, {
+	"key": "3",
+	"title": "<span>低 <b>耦合</b> 高<b>内聚</b></span>"
+}, {
+	"key": "4",
+	"title": "约定规范"
+}, {
+	"key": "5",
+	"title": "文档链接",
+	"href": "http://www.wwWendt.de/"
+}, {
+	"key": "6",
+	"title": "这块不懂不懂不懂",
+	"extraClasses": "my-extra-class"
+}, {
+	"key": "10",
+	"title": "父亲",
+	"folder": true,
+	"children": [{
+		"key": "10_1",
+		"title": "儿子",
+		"children": [{
+			"key": "10_1_1",
+			"title": "孙子"
+		}, {
+			"key": "10_1_2",
+			"title": "二孙子"
+		}]
+	}, {
+		"key": "10_2",
+		"title": "二胎",
+		"children": [{
+			"key": "10_2_1",
+			"title": "二胎的儿子"
+		}, {
+			"key": "10_2_2",
+			"title": "二胎的女儿吧"
+		}]
+	}]
+}, {
+	"key": "20",
+	"title": "呃，还有",
+	"expanded": true,
+	"children": [{
+		"key": "20_1",
+		"title": "好吧，又一个儿子",
+		"children": [{
+			"key": "20_1_1",
+			"title": "孙子"
+		}, {
+			"key": "20_1_2",
+			"title": "孙女"
+		}]
+	}, {
+		"key": "20_2",
+		"title": "又一个儿子",
+		"children": [{
+			"key": "20_2_1",
+			"title": "又一个儿子的孙子"
+		}, {
+			"key": "20_2_2",
+			"title": "又一个儿子的孙女"
+		}]
+	}]
+}]
